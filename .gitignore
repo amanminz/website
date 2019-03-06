@@ -1,0 +1,8 @@
+
+# Mac Shortcut/Finder generated file
+.DS_Store
+
+# Vim secondary files
+*~
+tmp/
+
